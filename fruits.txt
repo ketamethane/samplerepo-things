@@ -1,3 +1,5 @@
 apples
 berries
 cherries
+
+Add new thing on master branch after feature 1!
