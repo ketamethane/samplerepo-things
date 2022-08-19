@@ -6,3 +6,4 @@ Hello there! I added much more in feature 1 branch!
 Here's another commit in feature 1!
 
 master
+fix1
